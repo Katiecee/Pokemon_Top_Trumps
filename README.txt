@@ -1,1 +1,1 @@
-This is a test.
+This is my first ever Python project which I did as part of the Coding for Girls Coding Kickstarter in December 2023.
